@@ -1,0 +1,14 @@
+
+nav ul li a{font-size: 19px; font-weight: bold; color: black !important;}
+
+#navi{background-color: #a29bfe !important;}
+
+#navdropdown{background-color: #b2bec3 !important;}
+
+#navdropdown li a{font-size: 19px; font-weight: bold; color: white!important;}
+
+nav ul li a:hover{color: white !important;}
+
+#navdropdown li a:hover{background-color: #a29bfe !important; color: black !important;  }
+
+#btn{background-color: blueviolet;}
